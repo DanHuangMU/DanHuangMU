@@ -1,0 +1,61 @@
+body {
+	width: 90%;
+}
+
+#head {
+	padding: 2em;
+	text-align: center;
+}
+
+#evaluator {
+	padding: 1em;
+
+}
+
+#summary {
+	padding: 1em;
+}
+
+#links {
+	padding: 1em;
+}
+#main {
+	padding: 1.5em;
+}
+
+#case {
+	padding: 1em;
+}
+
+#changes {
+	padding: 1em;
+}
+
+#reflection {
+	padding: 1em;
+}
+
+table {
+	width: 40%;
+}
+
+table,tr,th,td {
+	padding: 0.5em;
+	border: 1px solid gray;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+#footer{
+	padding: 2em;
+	clear:both;
+	height: 20%;
+	width: 100%;
+	text-align: center;
+	
+}
+
+#w3c {
+	padding: 1em;
+	width: 10%;
+}
