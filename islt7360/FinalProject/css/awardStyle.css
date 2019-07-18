@@ -1,0 +1,133 @@
+body {margin:0;}
+#nav {
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	overflow: hidden;
+	background-color: #555;
+	width: 100%;
+	font-size: 1.2em;
+	font-family: sans-serif;
+}
+
+#nav li {
+	float: left;
+}
+
+#nav li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 0.8em 1em;
+	text-decoration: none;
+}
+
+#nav li a:hover:not(.active) {
+	background-color: #111;
+
+}
+
+.active{
+	background-color: #232C6D;
+}
+
+#awardHeader {
+	padding: 1.5em;
+	font-size: 2.5em;
+	text-align: center;
+	font-family: Helvetica;
+	text-shadow: 0.1em 0.1em #BBB;
+}
+
+#awardIntro {
+	padding: 2em;
+	font-size: 1.3em;
+	text-align: center;
+	font-family: sans-serif;
+	color: #666;
+}
+
+#award1 {
+	padding: 1.5em;
+}
+#award1 img {
+	padding: 1em;
+	width: 18%;
+	height: 50%;
+	float: left;
+}
+
+#award1 section {
+	font-family: sans-serif;
+}
+
+#award1 h1 {
+	color: #602030;
+}
+
+#award1 h2 {
+	color: #232C6D;
+}
+
+#award2 {
+	padding: 1.5em;
+	clear: left;
+	margin-top: 1em;
+}
+#award2 img {
+	padding: 1em;
+	width: 18%;
+	height: 50%;
+	float: left;
+}
+
+#award2 section {
+	font-family: sans-serif;
+}
+
+#award2 h1 {
+	color: #602030;
+}
+
+#award2 h2 {
+	color: #232C6D;
+}
+
+#award3 {
+	padding: 1.5em;
+	clear: left;
+	margin-top: 1em;
+}
+
+#award3 section {
+	width: 70%;
+	font-family: sans-serif;
+	float: left;
+	margin-left: 1em;
+}
+
+#award3 h1 {
+	color: #602030;
+}
+
+#award3 li {
+	font-size: 0.9em;
+}
+
+.p2 {
+	color: #434C8D;
+}
+
+#footer{
+	padding: 2em;
+	clear:both;
+	height: 20%;
+	width: 100%;
+	text-align: center;
+	
+}
+
+#w3c {
+	padding: 1em;
+	width: 10%;
+}
